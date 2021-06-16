@@ -1,0 +1,22 @@
+sql commands:
+
+    1.select    - extracts data from database
+    2.update    - update  ""
+    3.delete    - delete ""
+    4.create table  - create new table in database
+    5.alter table   - modifies a table in database
+    6.drop table    - delete a ""
+    7.create database -  create new database
+    8.alter database    - modifies a database
+    9.insert into       - insert a new data in database
+    10.create index     - creates a index (search key)
+    11.drop index       - delete a index
+
+
+    1. select distinct - select a distinct (different) value from database.
+    2. select count(distinct) - list no of distinct values.
+    3. Where clause - Is used to filter the records,extract those data that fulfill the conditions
+        characters are enclosed in '' or ""
+        Numerics are not enclosed.             ex:
+                                                  WHERE name = "adyen"
+                                                  WHERE cus_id = 2.
